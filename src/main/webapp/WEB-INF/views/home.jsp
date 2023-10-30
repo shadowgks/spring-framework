@@ -1,16 +1,11 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: Shadowgks
-  Date: 10/29/2023
-  Time: 7:48 PM
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Home</title>
 </head>
 <body>
-
+    <h1>Hello Home</h1>
+    <h3>Your Username: ${username}</h3>
+    <h3>Your Password: ${password}</h3>
 </body>
 </html>

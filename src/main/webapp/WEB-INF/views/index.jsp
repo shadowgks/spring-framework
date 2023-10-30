@@ -8,6 +8,6 @@
 </head>
 
 <body>
-    <h1>Hello</h1>
+    <h1>Hello index</h1>
 </body>
 </html>
